@@ -4,8 +4,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class CallApi {
   // The URL of server
-  // final String _url ='https://serenity-dev.com/api';
-  final String _url = 'http://192.168.1.6:8080/Projects/Graduation_Project/Doctory/public/api';
+  final String _url ='https://serenity-dev.com/api';
+  // final String _url = 'http://192.168.1.6:8080/Projects/Graduation_Project/Doctory/public/api';
 
   // Token to use it in request
   // ignore: prefer_typing_uninitialized_variables
