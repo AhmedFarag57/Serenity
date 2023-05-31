@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113366148119",
+    "project_id": "sereinty-71dc5",
+    "storage_bucket": "sereinty-71dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113366148119:android:b18e0e7ef6890f7f782852",
+        "android_client_info": {
+          "package_name": "com.example.serenity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113366148119-f14v4kms5eh6gloaun9a0m5s9tt8g36c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9VUxk-2CeVDCek9oztjOL6BhV1g8P1eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113366148119-f14v4kms5eh6gloaun9a0m5s9tt8g36c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
